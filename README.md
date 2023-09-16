@@ -37,5 +37,9 @@ cd FruitClustering/Fruits.ipynd
 
 ## Collaboration
 
-This project was done in colaboration with my collegue Francisco Amoros Cubells.
+This project was done in collaboration with my colleague Francisco Amoros Cubells.
+
+## Extra
+
+On the file Fruits.pdf you may find all the findings, assumptions and responses to all the Project Objectives.
 
